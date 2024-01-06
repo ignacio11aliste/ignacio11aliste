@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @ignacio11aliste
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning java with spring boot for the backend
 
-<!---
-ignacio11aliste/ignacio11aliste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
